@@ -7,3 +7,12 @@ $bcg-color: #2f303a;
 $bcg-btn: #f5f4fa;
 $border-header: #ececec;
 $client-logo: #afb1b8;
+
+body {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 1.714;
+  color: $gray;
+}
